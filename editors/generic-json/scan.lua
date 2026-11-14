@@ -90,7 +90,6 @@ function value(text, pos)
     return node, stop + 1
 end
 
--- Returns the tree, or nil and a reason.
 function scan.parse(text)
     local first = skip(text, text:sub(1, 3) == "\239\187\191" and 4 or 1)
     local c = text:sub(first, first)
@@ -104,7 +103,6 @@ function scan.parse(text)
     return tree
 end
 
--- Finds a value again after an edit moved things, following the same keys.
 function scan.find(tree, path)
     local node = tree
     for _, key in ipairs(path) do

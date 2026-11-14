@@ -27,8 +27,8 @@
         }
       ],
       "download": "editors/community.generic-json-1.0.0.zip",
-      "sha256": "ef3c01b6de0a5f4177615e0001645ddac07bce17eb827deda776a061c0fbf43c",
-      "size": 3577
+      "sha256": "7b5985ce95abaedf055958d270bfe25221e3a70efea04acaad3032ba9a4ab3d5",
+      "size": 3512
     },
     {
       "id": "community.hyrule-warriors-age-of-calamity",
@@ -49,7 +49,7 @@
         }
       ],
       "download": "editors/community.hyrule-warriors-age-of-calamity-1.0.0.zip",
-      "sha256": "a5c51ec1d9ce6162e9de89a83efda6ea314c8ee9a8d64b5b3a1f2cd1e6d314bc",
+      "sha256": "e372e39315b92c43a8314d9af49ccbaec711c2dc8d059f12538325e57aea292a",
       "size": 3922
     },
     {
@@ -76,7 +76,7 @@
         }
       ],
       "download": "editors/community.kid-icarus-uprising-1.0.0.zip",
-      "sha256": "fbb83ede087a145f44f7c281a5464b3473119dd534f359eab4e962108ca9fca7",
+      "sha256": "252f7bac6ca999055b02c22d706f5dc5b71fb3d0a12f566ac0ce867c177152e9",
       "size": 5704
     },
     {
@@ -108,7 +108,7 @@
         }
       ],
       "download": "editors/community.mario-kart-7-1.0.0.zip",
-      "sha256": "f958c171c1e9d7d91241d4dd4ae8835994392d02b2dc7baa43128673428f961c",
+      "sha256": "ee97290d0faa779e7fc85e0ecbea52c60ad661c4b1e44cdac0fab0a5dc0363d3",
       "size": 1616
     },
     {
@@ -130,7 +130,7 @@
         }
       ],
       "download": "editors/community.super-kirby-clash-1.0.0.zip",
-      "sha256": "b76ec57b9de48778de4eee1d0bf32cd8bd8d1aee22e7ff035da6993ea321da2a",
+      "sha256": "d1ab15be6bc4f38f3ad3369b68e945bd8a538abb2d37df588ec428109eeffcdd",
       "size": 1244
     }
   ]
