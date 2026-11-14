@@ -27,8 +27,29 @@
         }
       ],
       "download": "editors/community.generic-json-1.0.0.zip",
-      "sha256": "7b5985ce95abaedf055958d270bfe25221e3a70efea04acaad3032ba9a4ab3d5",
+      "sha256": "aeeead2f4d49ce172472d4ef71ba09c439eafbf5006a27c4843e8c022fa05c61",
       "size": 3512
+    },
+    {
+      "id": "community.generic-unreal",
+      "name": "Unreal Save Editor",
+      "description": "Edits Unreal Engine 4 and 5 save games (GVAS). Numbers, switches and text, including inside structs, arrays and maps.",
+      "version": "1.0.0",
+      "api_version": 1,
+      "authors": [
+        "SaveTinker"
+      ],
+      "source": "https://github.com/mrissaoussama/savetinker-editors/tree/main/editors/generic-unreal",
+      "games": [
+        {
+          "platform": "*",
+          "title_id": "*",
+          "name": "Unreal Engine games"
+        }
+      ],
+      "download": "editors/community.generic-unreal-1.0.0.zip",
+      "sha256": "ae1a2257d5f6e79db2deeef4a8fc5996ef3b6d0d050c03ade2f7acb485e33660",
+      "size": 1847
     },
     {
       "id": "community.hyrule-warriors-age-of-calamity",
@@ -49,7 +70,7 @@
         }
       ],
       "download": "editors/community.hyrule-warriors-age-of-calamity-1.0.0.zip",
-      "sha256": "e372e39315b92c43a8314d9af49ccbaec711c2dc8d059f12538325e57aea292a",
+      "sha256": "17f6243e9809a83bb58a34c892169b0bef10ef6c4e91bd97ee20bfeaa72882b2",
       "size": 3922
     },
     {
@@ -76,7 +97,7 @@
         }
       ],
       "download": "editors/community.kid-icarus-uprising-1.0.0.zip",
-      "sha256": "252f7bac6ca999055b02c22d706f5dc5b71fb3d0a12f566ac0ce867c177152e9",
+      "sha256": "730e4559151fb10092669abdda0b8683547a63ca731326a73fcf2137a247646b",
       "size": 5704
     },
     {
@@ -108,7 +129,7 @@
         }
       ],
       "download": "editors/community.mario-kart-7-1.0.0.zip",
-      "sha256": "ee97290d0faa779e7fc85e0ecbea52c60ad661c4b1e44cdac0fab0a5dc0363d3",
+      "sha256": "b29e27b7f15ead892b8f3560471dfce7a3e0f4f3ae2b2f82659562965763e2d6",
       "size": 1616
     },
     {
@@ -130,7 +151,7 @@
         }
       ],
       "download": "editors/community.super-kirby-clash-1.0.0.zip",
-      "sha256": "d1ab15be6bc4f38f3ad3369b68e945bd8a538abb2d37df588ec428109eeffcdd",
+      "sha256": "46113e59c4b2d1e8dd118700aef2eb472b10dfe56e161d71e366a38ca6d0232f",
       "size": 1244
     }
   ]

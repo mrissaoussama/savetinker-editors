@@ -1,0 +1,13 @@
+{
+  "id": "community.generic-unreal",
+  "name": "Unreal Save Editor",
+  "description": "Edits Unreal Engine 4 and 5 save games (GVAS). Numbers, switches and text, including inside structs, arrays and maps.",
+  "version": "1.0.0",
+  "api_version": 1,
+  "authors": ["SaveTinker"],
+  "source": "https://github.com/mrissaoussama/savetinker-editors/tree/main/editors/generic-unreal",
+  "icon": "icon.png",
+  "games": [
+    {"platform": "*", "title_id": "*", "name": "Unreal Engine games"}
+  ]
+}
