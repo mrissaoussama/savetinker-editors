@@ -1,0 +1,13 @@
+{
+  "id": "community.kid-icarus-uprising",
+  "name": "Kid Icarus: Uprising Editor",
+  "description": "Hearts, hearts offered to the goddesses, every gameplay stat, and the stars and modifiers of each weapon.",
+  "version": "1.0.0",
+  "api_version": 1,
+  "authors": ["Marc Robledo (original editor)", "SaveTinker port"],
+  "source": "https://github.com/marcrobledo/savegame-editors/tree/master/kid-icarus-uprising",
+  "games": [
+    {"platform": "3ds", "title_id": "0004000000030100", "name": "Kid Icarus: Uprising (USA)"},
+    {"platform": "3ds", "title_id": "0004000000030200", "name": "Kid Icarus: Uprising (EUR)"}
+  ]
+}

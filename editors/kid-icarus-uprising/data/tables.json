@@ -1,0 +1,1062 @@
+{
+ "stats": [
+  "Times played",
+  "Total play time (in seconds)",
+  "Total Solo play time (in seconds)",
+  "Hearts acquired",
+  "Weapons acquired",
+  "Powers acquired",
+  "UNKNOWN_1",
+  "Enemies defeated",
+  "Bosses defeated",
+  "Ranged attacks",
+  "Melee attacks",
+  "Attacks evaded",
+  "Knockback recoveries",
+  "Shots narrowly avoided",
+  "Special Attacks used",
+  "Times finished",
+  "Powers used",
+  "Items used",
+  "Times eggplanted",
+  "Times tempuraed",
+  "Centurions summoned",
+  "Chapters cleared",
+  "Total score",
+  "Chapters cleared at max Intensity",
+  "Avg. Intensity *FLOAT*",
+  "Avg. Intensity for cleared chapters *FLOAT*",
+  "Hearts bet in the Fiend's cauldron",
+  "Hearts lost",
+  "Most hearts acquired",
+  "Most weapons acquired",
+  "Most powers acquired",
+  "Weapons purchased",
+  "Weapons converted to hearts",
+  "Hearts offered in the Vault",
+  "UNKNOWN_2",
+  "UNKNOWN_3",
+  "UNKNOWN_4",
+  "UNKNOWN_5",
+  "Weapons fusions",
+  "Treasure boxes opened",
+  "Times pickpocketed",
+  "Souflees defeated",
+  "Rare Treasurefish defeated",
+  "Exo Tank uses",
+  "Aether Ring uses",
+  "Cherubot uses",
+  "Three Sacred Treasures uses",
+  "Lightning Chariot uses",
+  "Great Sacred Treasure uses",
+  "Time playes as Magnus (in seconds)",
+  "Time playes as Dark Pit (in seconds)",
+  "Practice Range uses",
+  "Nearby matches played",
+  "Nearby time played (in seconds)",
+  "Total Nearby participants",
+  "Far Away matches played",
+  "Total Far Away participants",
+  "Time played With Friends",
+  "Time played With Anyone",
+  "Light vs. Dark matches played",
+  "Light vs. Dark matches won",
+  "Free-for-All matches played",
+  "Free-for-All matches won",
+  "Opponents defeated",
+  "Matches suspended",
+  "Times you became an angel",
+  "Times you won as an angel",
+  "Angels defeated",
+  "Weapons rewarded",
+  "Powers rewarded",
+  "Hearts rewarded",
+  "Weapon gems created",
+  "Weapon-gem-exchange partners",
+  "UNKNOWN_6",
+  "Weapons fused from gems",
+  "Hearts acquired by gems"
+ ],
+ "modifiers": [
+  "-",
+  "Standing ch. shot +1",
+  "Standing ch. shot +2",
+  "Standing ch. shot +3",
+  "Standing ch. shot +4",
+  "Standing ch. shot -1",
+  "Standing ch. shot -2",
+  "Dash ch. shot +1",
+  "Dash ch. shot +2",
+  "Dash ch. shot +3",
+  "Dash ch. shot +4",
+  "Dash ch. shot -1",
+  "Dash ch. shot -2",
+  "Forward-dash ch. shot +1",
+  "Forward-dash ch. shot +2",
+  "Forward-dash ch. shot +3",
+  "Forward-dash ch. shot +4",
+  "Side-dash ch. shot +1",
+  "Side-dash ch. shot +2",
+  "Side-dash ch. shot +3",
+  "Side-dash ch. shot +4",
+  "Backward-dash ch. shot +1",
+  "Backward-dash ch. shot +2",
+  "Backward-dash ch. shot +3",
+  "Backward-dash ch. shot +4",
+  "Standing cont. fire +1",
+  "Standing cont. fire +2",
+  "Standing cont. fire +3",
+  "Standing cont. fire +4",
+  "Standing cont. fire -1",
+  "Standing cont. fire -2",
+  "Dash cont. fire +1",
+  "Dash cont. fire +2",
+  "Dash cont. fire +3",
+  "Dash cont. fire +4",
+  "Dash cont. fire -1",
+  "Dash cont. fire -2",
+  "Forward-dash cont. fire +1",
+  "Forward-dash cont. fire +2",
+  "Forward-dash cont. fire +3",
+  "Forward-dash cont. fire +4",
+  "Side-dash cont. fire +1",
+  "Side-dash cont. fire +2",
+  "Side-dash cont. fire +3",
+  "Side-dash cont. fire +4",
+  "Backward-dash cont. fire +1",
+  "Backward-dash cont. fire +2",
+  "Backward-dash cont. fire +3",
+  "Backward-dash cont. fire +4",
+  "Melee Combo +1",
+  "Melee Combo +2",
+  "Melee Combo +3",
+  "Melee Combo +4",
+  "Melee Combo -1",
+  "Melee Combo -2",
+  "Melee Dash Attack +1",
+  "Melee Dash Attack +2",
+  "Melee Dash Attack +3",
+  "Melee Dash Attack +4",
+  "Melee Dash Attack -1",
+  "Melee Dash Attack -2",
+  "Item Attack +1",
+  "Item Attack +2",
+  "Item Attack +3",
+  "Item Attack +4",
+  "Power Attack +1",
+  "Power Attack +2",
+  "Power Attack +3",
+  "Power Attack +4",
+  "Health +1",
+  "Health +2",
+  "Health +3",
+  "Health +4",
+  "Health +5",
+  "Health +6",
+  "Health -1",
+  "Health -2",
+  "Health -3",
+  "Health -4",
+  "Stamina +1",
+  "Stamina +2",
+  "Stamina +3",
+  "Stamina +4",
+  "Speed +1",
+  "Speed +2",
+  "Speed +3",
+  "Speed +4",
+  "Speed -1",
+  "Speed -2",
+  "Speed -3",
+  "Speed -4",
+  "Walking Speed +1",
+  "Walking Speed +2",
+  "Walking Speed +3",
+  "Walking Speed +4",
+  "Running speed +1",
+  "Running speed +2",
+  "Running speed +3",
+  "Running speed +4",
+  "Evasion +1",
+  "Evasion +2",
+  "Evasion +3",
+  "Evasion +4",
+  "Shot Defense +1",
+  "Shot Defense +2",
+  "Shot Defense +3",
+  "Shot Defense +4",
+  "Shot Defense -1",
+  "Shot Defense -2",
+  "Melee defense +1",
+  "Melee defense +2",
+  "Melee defense +3",
+  "Melee defense +4",
+  "Melee defense -1",
+  "Melee defense -2",
+  "Knockback Defense +1",
+  "Knockback Defense +2",
+  "Knockback Defense +3",
+  "Knockback Defense +4",
+  "Status resistance +1",
+  "Status resistance +2",
+  "Status resistance +3",
+  "Status resistance +4",
+  "Status resistance -1",
+  "Status resistance -2",
+  "Status resistance -3",
+  "Status resistance -4",
+  "Overall Defense +1",
+  "Overall Defense +2",
+  "Overall Defense +3",
+  "Overall Defense +4",
+  "Overall Defense +5",
+  "Overall Defense +6",
+  "Overall Defense +7",
+  "Overall Defense +8",
+  "Overall Defense -1",
+  "Overall Defense -2",
+  "Overall Defense -3",
+  "Overall Defense -4",
+  "Recovery Effect +1",
+  "Recovery Effect +2",
+  "Recovery Effect +3",
+  "Recovery Effect +4",
+  "Effect Duration +1",
+  "Effect Duration +2",
+  "Effect Duration +3",
+  "Effect Duration +4",
+  "Poison +1",
+  "Poison +2",
+  "Poison +3",
+  "Poison +4",
+  "Paralyse +1",
+  "Paralyse +2",
+  "Paralyse +3",
+  "Paralyse +4",
+  "Weakening +1",
+  "Weakening +2",
+  "Weakening +3",
+  "Weakening +4",
+  "Petrify +1",
+  "Petrify +2",
+  "Petrify +3",
+  "Petrify +4",
+  "Shaking +1",
+  "Shaking +2",
+  "Shaking +3",
+  "Shaking +4",
+  "Confusion +1",
+  "Confusion +2",
+  "Confusion +3",
+  "Confusion +4",
+  "Burning +1",
+  "Burning +2",
+  "Burning +3",
+  "Burning +4",
+  "Freezing +1",
+  "Freezing +2",
+  "Freezing +3",
+  "Freezing +4",
+  "Shot Range +1",
+  "Shot Range +2",
+  "Shot Range +3",
+  "Shot Range -1",
+  "Shot Range -2",
+  "Shot Range -3",
+  "Shot Homing +1",
+  "Shot Homing +2",
+  "Shot Homing +3",
+  "Shot Homing -1",
+  "Shot Homing -2",
+  "Shot Homing -3",
+  "Shot Cancellation +1",
+  "Knockback Recovery +1",
+  "Self Injury -1",
+  "Self Injury -2",
+  "Self Injury -3",
+  "Full-health boost +1",
+  "Full-health boost +2",
+  "Full-health boost +3",
+  "Full-health boost +4",
+  "Full-health boost +5",
+  "Full-health boost +6",
+  "In Peril Auto-Dodge +1",
+  "In Peril Auto-Dodge +2",
+  "In Peril Auto-Dodge +3",
+  "In Peril Attack Boost +1",
+  "In Peril Attack Boost +2",
+  "In Peril Attack Boost +3",
+  "In Peril Attack Boost +4",
+  "In Peril Attack Boost +5",
+  "In Peril Attack Boost +6",
+  "In Peril Attack Boost -1",
+  "In Peril Attack Boost -2",
+  "In Peril Attack Boost -3",
+  "In Peril Attack Boost -4",
+  "Heart Bonus +1",
+  "Heart Bonus +2",
+  "Heart Bonus +3",
+  "Heart Bonus -1",
+  "Heart Bonus -2",
+  "Heart Bonus -3"
+ ],
+ "modifier_values": [
+  0.0,
+  9.2,
+  15.8,
+  22.4,
+  29,
+  -6.4,
+  -12.8,
+  13.2,
+  23.3,
+  33.4,
+  43.6,
+  -11.1,
+  -22.1,
+  11.2,
+  19.1,
+  26.9,
+  34.8,
+  9.9,
+  16.7,
+  23.5,
+  30.4,
+  10.6,
+  17.9,
+  25.2,
+  32.6,
+  7.9,
+  13,
+  18,
+  23.1,
+  -5.1,
+  -10.1,
+  10.6,
+  17.2,
+  23.8,
+  30.4,
+  -9.2,
+  -18.5,
+  8.6,
+  14.2,
+  19.7,
+  25.3,
+  8.6,
+  14.2,
+  19.7,
+  25.3,
+  8.6,
+  14.2,
+  19.7,
+  25.3,
+  9.2,
+  15.3,
+  21.4,
+  27.5,
+  -6.4,
+  -12.8,
+  7.9,
+  12.6,
+  17.3,
+  22,
+  -5.5,
+  -11,
+  14.5,
+  27.7,
+  40.9,
+  54.1,
+  23.8,
+  40.3,
+  56.8,
+  73.3,
+  9,
+  18.4,
+  27.9,
+  37.3,
+  46.7,
+  56.1,
+  -8.1,
+  -15.8,
+  -23.5,
+  -31.1,
+  11.9,
+  17.9,
+  23.9,
+  29.9,
+  9.2,
+  17.2,
+  25.1,
+  33,
+  -11,
+  -17.6,
+  -24.2,
+  -30.8,
+  6.6,
+  9.9,
+  13.2,
+  16.5,
+  7.9,
+  13.4,
+  18.9,
+  24.4,
+  10.8,
+  17.2,
+  23.5,
+  29.9,
+  15,
+  29.8,
+  44.7,
+  59.6,
+  -14.9,
+  -31.2,
+  9.9,
+  18.5,
+  27.1,
+  35.6,
+  -8.9,
+  -20.8,
+  6.6,
+  13.2,
+  19.8,
+  26.4,
+  12.8,
+  21.3,
+  29.8,
+  38.3,
+  -7.7,
+  -10.7,
+  -13.6,
+  -16.6,
+  15,
+  25.8,
+  36.6,
+  47.5,
+  58.3,
+  69.2,
+  80,
+  90.9,
+  -16.5,
+  -25.7,
+  -34.8,
+  -44,
+  15.8,
+  21.1,
+  26.4,
+  31.7,
+  10.6,
+  20.2,
+  29.9,
+  39.6,
+  6.2,
+  10,
+  13.9,
+  17.8,
+  7.9,
+  14.5,
+  21.1,
+  27.7,
+  9.2,
+  16.4,
+  23.5,
+  30.6,
+  16.9,
+  20.9,
+  24.9,
+  28.8,
+  7.3,
+  14.1,
+  20.9,
+  27.7,
+  7.3,
+  14.1,
+  20.9,
+  27.7,
+  7.9,
+  13.9,
+  19.8,
+  25.7,
+  20.2,
+  25.5,
+  30.8,
+  36.1,
+  13.9,
+  24.3,
+  34.8,
+  -5.9,
+  -9.2,
+  -12.5,
+  11.9,
+  18.7,
+  25.5,
+  -4.6,
+  -8.1,
+  -11.7,
+  42.5,
+  10.6,
+  -8.8,
+  -13.2,
+  -17.6,
+  8.6,
+  12.3,
+  16.1,
+  19.8,
+  23.5,
+  27.3,
+  7.7,
+  11.6,
+  15.4,
+  9.9,
+  16,
+  22,
+  28.1,
+  34.2,
+  40.3,
+  -10.7,
+  -14.2,
+  -17.8,
+  -21.3,
+  8.8,
+  17.6,
+  26.4,
+  -3.3,
+  -5,
+  -6.6
+ ],
+ "stars": [
+  "-",
+  "☆",
+  "★",
+  "★☆",
+  "★★",
+  "★★☆",
+  "★★★",
+  "★★★☆",
+  "★★★★",
+  "★★★★☆",
+  "★★★★★",
+  "★★★★★☆",
+  "★★★★★★",
+  "-☆",
+  "-★",
+  "-★☆",
+  "-★★"
+ ],
+ "star_ranged_values": [
+  0.0,
+  14.9,
+  23.2,
+  31.5,
+  39.8,
+  48.1,
+  56.4,
+  64.7,
+  73.0,
+  81.3,
+  89.6,
+  98.2,
+  106.2,
+  -11.75,
+  -23.5,
+  -35.25,
+  -47.0
+ ],
+ "star_melee_values": [
+  0.0,
+  9.4,
+  15.2,
+  21.0,
+  26.8,
+  32.6,
+  38.4,
+  44.2,
+  50.0,
+  55.8,
+  61.6,
+  67.4,
+  73.2,
+  -8.5,
+  -17,
+  -25.5,
+  -34
+ ],
+ "weapon_types": [
+  {
+   "name": "Blades",
+   "weapons": [
+    {
+     "bitmap": 0,
+     "name": "First Blade"
+    },
+    {
+     "bitmap": 32768,
+     "name": "Burst Blade"
+    },
+    {
+     "bitmap": 1,
+     "name": "Viper Blade"
+    },
+    {
+     "bitmap": 32769,
+     "name": "Crusader Blade"
+    },
+    {
+     "bitmap": 2,
+     "name": "Royal Blade"
+    },
+    {
+     "bitmap": 32770,
+     "name": "Optical Blade"
+    },
+    {
+     "bitmap": 3,
+     "name": "Samurai Blade"
+    },
+    {
+     "bitmap": 32771,
+     "name": "Bullet Blade"
+    },
+    {
+     "bitmap": 4,
+     "name": "Aquarius Blade"
+    },
+    {
+     "bitmap": 32772,
+     "name": "Aurum Blade"
+    },
+    {
+     "bitmap": 5,
+     "name": "Palutena Blade"
+    },
+    {
+     "bitmap": 32773,
+     "name": "Gaol Blade"
+    }
+   ]
+  },
+  {
+   "name": "Staves",
+   "weapons": [
+    {
+     "bitmap": 1024,
+     "name": "Insight Staff"
+    },
+    {
+     "bitmap": 33792,
+     "name": "Orb Staff"
+    },
+    {
+     "bitmap": 1025,
+     "name": "Rose Staff"
+    },
+    {
+     "bitmap": 33793,
+     "name": "Knuckle Staff"
+    },
+    {
+     "bitmap": 1026,
+     "name": "Ancient Staff"
+    },
+    {
+     "bitmap": 33794,
+     "name": "Lancer Staff"
+    },
+    {
+     "bitmap": 1027,
+     "name": "Flintlock Staff"
+    },
+    {
+     "bitmap": 33795,
+     "name": "Somewhat Staff"
+    },
+    {
+     "bitmap": 1028,
+     "name": "Scorpio Staff"
+    },
+    {
+     "bitmap": 33796,
+     "name": "Laser Staff"
+    },
+    {
+     "bitmap": 1029,
+     "name": "Dark Pit Staff"
+    },
+    {
+     "bitmap": 33797,
+     "name": "Thanatos Staff"
+    }
+   ]
+  },
+  {
+   "name": "Claws",
+   "weapons": [
+    {
+     "bitmap": 34816,
+     "name": "Tiger Claws"
+    },
+    {
+     "bitmap": 34816,
+     "name": "Wolf Claws"
+    },
+    {
+     "bitmap": 2049,
+     "name": "Bear Claws"
+    },
+    {
+     "bitmap": 34817,
+     "name": "Brawler Claws"
+    },
+    {
+     "bitmap": 2050,
+     "name": "Stealth Claws"
+    },
+    {
+     "bitmap": 34818,
+     "name": "Hedgehog Claws"
+    },
+    {
+     "bitmap": 2051,
+     "name": "Raptor Claws"
+    },
+    {
+     "bitmap": 34819,
+     "name": "Artillery Claws"
+    },
+    {
+     "bitmap": 2052,
+     "name": "Cancer Claws"
+    },
+    {
+     "bitmap": 34820,
+     "name": "Beam Claws"
+    },
+    {
+     "bitmap": 2053,
+     "name": "Viridi Claws"
+    },
+    {
+     "bitmap": 34821,
+     "name": "Pandora Claws"
+    }
+   ]
+  },
+  {
+   "name": "Bows",
+   "weapons": [
+    {
+     "bitmap": 3072,
+     "name": "Fortune Bow"
+    },
+    {
+     "bitmap": 35840,
+     "name": "Silver Bow"
+    },
+    {
+     "bitmap": 3073,
+     "name": "Meteor Bow"
+    },
+    {
+     "bitmap": 35841,
+     "name": "Divine Bow"
+    },
+    {
+     "bitmap": 3074,
+     "name": "Darkness Bow"
+    },
+    {
+     "bitmap": 35842,
+     "name": "Crystal Bow"
+    },
+    {
+     "bitmap": 3075,
+     "name": "Angel Bow"
+    },
+    {
+     "bitmap": 35843,
+     "name": "Hawkeye Bow"
+    },
+    {
+     "bitmap": 3076,
+     "name": "Sagittarius Bow"
+    },
+    {
+     "bitmap": 35844,
+     "name": "Aurum Bow"
+    },
+    {
+     "bitmap": 3077,
+     "name": "Palutena Bow"
+    },
+    {
+     "bitmap": 35845,
+     "name": "Phrosphora Bow"
+    }
+   ]
+  },
+  {
+   "name": "Palms",
+   "weapons": [
+    {
+     "bitmap": 4096,
+     "name": "Violet Palm"
+    },
+    {
+     "bitmap": 36864,
+     "name": "Burning Palm"
+    },
+    {
+     "bitmap": 4097,
+     "name": "Needle Palm"
+    },
+    {
+     "bitmap": 36865,
+     "name": "Midnight Palm"
+    },
+    {
+     "bitmap": 4098,
+     "name": "Cursed Palm"
+    },
+    {
+     "bitmap": 36866,
+     "name": "Cutter Palm"
+    },
+    {
+     "bitmap": 4099,
+     "name": "Pudgy Palm"
+    },
+    {
+     "bitmap": 36867,
+     "name": "Ninja Palm (Weeaboo Palm)"
+    },
+    {
+     "bitmap": 4100,
+     "name": "Virgo Palm"
+    },
+    {
+     "bitmap": 36868,
+     "name": "Aurum Palm"
+    },
+    {
+     "bitmap": 4101,
+     "name": "Viridi Palm"
+    },
+    {
+     "bitmap": 36869,
+     "name": "Great Reaper Palm"
+    }
+   ]
+  },
+  {
+   "name": "Clubs",
+   "weapons": [
+    {
+     "bitmap": 5120,
+     "name": "Ore Club"
+    },
+    {
+     "bitmap": 37888,
+     "name": "Babel Club"
+    },
+    {
+     "bitmap": 5121,
+     "name": "Skyscraper Club"
+    },
+    {
+     "bitmap": 37889,
+     "name": "Atlas Club"
+    },
+    {
+     "bitmap": 5122,
+     "name": "Earthmaul Club"
+    },
+    {
+     "bitmap": 37890,
+     "name": "Ogre Club"
+    },
+    {
+     "bitmap": 5123,
+     "name": "Halo Club"
+    },
+    {
+     "bitmap": 37891,
+     "name": "Black Club"
+    },
+    {
+     "bitmap": 5124,
+     "name": "Capricorn Club"
+    },
+    {
+     "bitmap": 37892,
+     "name": "Aurum Club"
+    },
+    {
+     "bitmap": 5125,
+     "name": "Hewdraw Club"
+    },
+    {
+     "bitmap": 37893,
+     "name": "Magnus Club"
+    }
+   ]
+  },
+  {
+   "name": "Cannons",
+   "weapons": [
+    {
+     "bitmap": 6144,
+     "name": "EZ Cannon"
+    },
+    {
+     "bitmap": 38912,
+     "name": "Ball Cannon"
+    },
+    {
+     "bitmap": 6145,
+     "name": "Predator Cannon"
+    },
+    {
+     "bitmap": 38913,
+     "name": "Poseidon Cannon"
+    },
+    {
+     "bitmap": 6146,
+     "name": "Fireworks Cannon"
+    },
+    {
+     "bitmap": 38914,
+     "name": "Rail Cannon"
+    },
+    {
+     "bitmap": 6147,
+     "name": "Dynamo Cannon"
+    },
+    {
+     "bitmap": 38915,
+     "name": "Doom Cannon"
+    },
+    {
+     "bitmap": 6148,
+     "name": "Leo Cannon"
+    },
+    {
+     "bitmap": 38916,
+     "name": "Sonic Cannon"
+    },
+    {
+     "bitmap": 6149,
+     "name": "Twinbellows Cannon"
+    },
+    {
+     "bitmap": 38917,
+     "name": "Cragalanche Cannon"
+    }
+   ]
+  },
+  {
+   "name": "Orbitars",
+   "weapons": [
+    {
+     "bitmap": 7168,
+     "name": "Standard Orbitars"
+    },
+    {
+     "bitmap": 39936,
+     "name": "Guardian Orbitars"
+    },
+    {
+     "bitmap": 7169,
+     "name": "Shock Orbitars"
+    },
+    {
+     "bitmap": 39937,
+     "name": "Eyetrack Orbitars"
+    },
+    {
+     "bitmap": 7170,
+     "name": "Fairy Orbitars"
+    },
+    {
+     "bitmap": 39938,
+     "name": "Paw Pad Orbitars"
+    },
+    {
+     "bitmap": 7171,
+     "name": "Jetstream Orbitars"
+    },
+    {
+     "bitmap": 39939,
+     "name": "Boom Orbitars"
+    },
+    {
+     "bitmap": 7172,
+     "name": "Gemini Orbitars"
+    },
+    {
+     "bitmap": 39940,
+     "name": "Aurum Orbitars"
+    },
+    {
+     "bitmap": 7173,
+     "name": "Centurion Orbitars"
+    },
+    {
+     "bitmap": 39941,
+     "name": "Arlon Orbitars"
+    }
+   ]
+  },
+  {
+   "name": "Arms",
+   "weapons": [
+    {
+     "bitmap": 8192,
+     "name": "Crusher Arm"
+    },
+    {
+     "bitmap": 40960,
+     "name": "Compact Arm"
+    },
+    {
+     "bitmap": 8193,
+     "name": "Electroshock Arm"
+    },
+    {
+     "bitmap": 40961,
+     "name": "Volcano Arm"
+    },
+    {
+     "bitmap": 8194,
+     "name": "Drill Arm"
+    },
+    {
+     "bitmap": 40962,
+     "name": "Bomber Arm"
+    },
+    {
+     "bitmap": 8195,
+     "name": "Bowl Arm"
+    },
+    {
+     "bitmap": 40963,
+     "name": "End-All Arm"
+    },
+    {
+     "bitmap": 8196,
+     "name": "Taurus Arm"
+    },
+    {
+     "bitmap": 40964,
+     "name": "Upperdash Arm"
+    },
+    {
+     "bitmap": 8197,
+     "name": "Kraken Arm"
+    },
+    {
+     "bitmap": 40965,
+     "name": "Phoenix Arm"
+    }
+   ]
+  }
+ ]
+}

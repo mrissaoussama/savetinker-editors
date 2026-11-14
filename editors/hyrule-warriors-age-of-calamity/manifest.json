@@ -1,0 +1,12 @@
+{
+  "id": "community.hyrule-warriors-age-of-calamity",
+  "name": "Hyrule Warriors: Age of Calamity Editor",
+  "description": "Rupees, every material (marked as discovered when added) and character levels.",
+  "version": "1.0.0",
+  "api_version": 1,
+  "authors": ["Marc Robledo (original editor)", "SaveTinker port"],
+  "source": "https://github.com/marcrobledo/savegame-editors/tree/master/hyrule-warriors-age-of-calamity",
+  "games": [
+    {"platform": "switch", "title_id": "01002B00111A2000", "name": "Hyrule Warriors: Age of Calamity"}
+  ]
+}

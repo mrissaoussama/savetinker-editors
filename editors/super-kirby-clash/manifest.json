@@ -1,0 +1,12 @@
+{
+  "id": "community.super-kirby-clash",
+  "name": "Super Kirby Clash Editor",
+  "description": "Gem apples, fragments and heroic mission unlocks.",
+  "version": "1.0.0",
+  "api_version": 1,
+  "authors": ["Marc Robledo (original editor)", "SaveTinker port"],
+  "source": "https://github.com/marcrobledo/savegame-editors/tree/master/super-kirby-clash",
+  "games": [
+    {"platform": "switch", "title_id": "01003FB00C5A8000", "name": "Super Kirby Clash"}
+  ]
+}

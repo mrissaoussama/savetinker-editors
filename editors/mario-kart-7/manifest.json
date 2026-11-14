@@ -1,0 +1,14 @@
+{
+  "id": "community.mario-kart-7",
+  "name": "Mario Kart 7 Editor",
+  "description": "Coins, StreetPass and online stats, player name, and unlocks for cups, characters and kart parts.",
+  "version": "1.0.0",
+  "api_version": 1,
+  "authors": ["Marc Robledo (original editor)", "SaveTinker port"],
+  "source": "https://github.com/marcrobledo/savegame-editors/tree/master/mario-kart-7",
+  "games": [
+    {"platform": "3ds", "title_id": "0004000000030600", "name": "Mario Kart 7 (JPN)"},
+    {"platform": "3ds", "title_id": "0004000000030700", "name": "Mario Kart 7 (EUR)"},
+    {"platform": "3ds", "title_id": "0004000000030800", "name": "Mario Kart 7 (USA)"}
+  ]
+}

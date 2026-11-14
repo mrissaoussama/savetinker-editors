@@ -1,0 +1,111 @@
+{
+  "name": "SaveTinker editors",
+  "maintainer": "mrissaoussama",
+  "homepage": "https://github.com/mrissaoussama/savetinker-editors",
+  "api_version": 1,
+  "platforms": [
+    "switch",
+    "3ds"
+  ],
+  "editors": [
+    {
+      "id": "community.hyrule-warriors-age-of-calamity",
+      "name": "Hyrule Warriors: Age of Calamity Editor",
+      "description": "Rupees, every material (marked as discovered when added) and character levels.",
+      "version": "1.0.0",
+      "authors": [
+        "Marc Robledo (original editor)",
+        "SaveTinker port"
+      ],
+      "source": "https://github.com/marcrobledo/savegame-editors/tree/master/hyrule-warriors-age-of-calamity",
+      "games": [
+        {
+          "platform": "switch",
+          "title_id": "01002B00111A2000",
+          "name": "Hyrule Warriors: Age of Calamity"
+        }
+      ],
+      "download": "editors/community.hyrule-warriors-age-of-calamity-1.0.0.zip",
+      "sha256": "30b4231859c5a0db87fa88a33f38c0c257b360d3f12f56b9cbdec1f3f023537a",
+      "size": 3922
+    },
+    {
+      "id": "community.kid-icarus-uprising",
+      "name": "Kid Icarus: Uprising Editor",
+      "description": "Hearts, hearts offered to the goddesses, every gameplay stat, and the stars and modifiers of each weapon.",
+      "version": "1.0.0",
+      "authors": [
+        "Marc Robledo (original editor)",
+        "SaveTinker port"
+      ],
+      "source": "https://github.com/marcrobledo/savegame-editors/tree/master/kid-icarus-uprising",
+      "games": [
+        {
+          "platform": "3ds",
+          "title_id": "0004000000030100",
+          "name": "Kid Icarus: Uprising (USA)"
+        },
+        {
+          "platform": "3ds",
+          "title_id": "0004000000030200",
+          "name": "Kid Icarus: Uprising (EUR)"
+        }
+      ],
+      "download": "editors/community.kid-icarus-uprising-1.0.0.zip",
+      "sha256": "af41d8f100abbdde48855d728fa3cfc2896c317f9a952fd84b1f8ed456a6e451",
+      "size": 5704
+    },
+    {
+      "id": "community.mario-kart-7",
+      "name": "Mario Kart 7 Editor",
+      "description": "Coins, StreetPass and online stats, player name, and unlocks for cups, characters and kart parts.",
+      "version": "1.0.0",
+      "authors": [
+        "Marc Robledo (original editor)",
+        "SaveTinker port"
+      ],
+      "source": "https://github.com/marcrobledo/savegame-editors/tree/master/mario-kart-7",
+      "games": [
+        {
+          "platform": "3ds",
+          "title_id": "0004000000030600",
+          "name": "Mario Kart 7 (JPN)"
+        },
+        {
+          "platform": "3ds",
+          "title_id": "0004000000030700",
+          "name": "Mario Kart 7 (EUR)"
+        },
+        {
+          "platform": "3ds",
+          "title_id": "0004000000030800",
+          "name": "Mario Kart 7 (USA)"
+        }
+      ],
+      "download": "editors/community.mario-kart-7-1.0.0.zip",
+      "sha256": "d028b1cd89ad33f4445780c3be6e479ed6773374bf0c6ca3ecac248e455511f4",
+      "size": 1616
+    },
+    {
+      "id": "community.super-kirby-clash",
+      "name": "Super Kirby Clash Editor",
+      "description": "Gem apples, fragments and heroic mission unlocks.",
+      "version": "1.0.0",
+      "authors": [
+        "Marc Robledo (original editor)",
+        "SaveTinker port"
+      ],
+      "source": "https://github.com/marcrobledo/savegame-editors/tree/master/super-kirby-clash",
+      "games": [
+        {
+          "platform": "switch",
+          "title_id": "01003FB00C5A8000",
+          "name": "Super Kirby Clash"
+        }
+      ],
+      "download": "editors/community.super-kirby-clash-1.0.0.zip",
+      "sha256": "d50bbebea6b3dfcb1976d8da6dc95c04c479ecfc168aa30aa6b5d4c13f287fae",
+      "size": 1244
+    }
+  ]
+}
