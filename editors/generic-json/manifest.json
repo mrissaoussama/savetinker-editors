@@ -1,0 +1,13 @@
+{
+  "id": "community.generic-json",
+  "name": "JSON Save Editor",
+  "description": "Edits any save stored as JSON text, common in Unity and other engine games. Values are changed in place, so the file keeps its formatting.",
+  "version": "1.0.0",
+  "api_version": 1,
+  "authors": ["SaveTinker"],
+  "source": "https://github.com/mrissaoussama/savetinker-editors/tree/main/editors/generic-json",
+  "icon": "icon.png",
+  "games": [
+    {"platform": "*", "title_id": "*", "name": "Games with JSON saves"}
+  ]
+}
