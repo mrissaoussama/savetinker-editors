@@ -27,7 +27,7 @@
         }
       ],
       "download": "editors/community.generic-json-1.0.0.zip",
-      "sha256": "4ff4da2448cd28057a1eff733461dc368106102a0696094b3e118754e5987502",
+      "sha256": "a72af4f318bc9d46d58de852617ef3c92e81b19cabd37ca6947bf33342a8c5ac",
       "size": 3512
     },
     {
@@ -48,7 +48,7 @@
         }
       ],
       "download": "editors/community.generic-unreal-1.1.0.zip",
-      "sha256": "42ea6ae41a6c72d623d1427baf23116e7ec02e565272b970de006bcdfbcb65b3",
+      "sha256": "b60a47a15d7c7c6f078f8ff6b7dae972d3f0e1e64312236f8ce3742432351d47",
       "size": 1951
     },
     {
@@ -70,7 +70,7 @@
         }
       ],
       "download": "editors/community.hyrule-warriors-age-of-calamity-1.0.0.zip",
-      "sha256": "3ac066b829ecffb2e76bf24a567b157bd4abba4740b2cfd073e16dd6b54c8da0",
+      "sha256": "fce713d9fc01650229894739923d2fbd5a2b3a2f85d89380dd8b34f372afa454",
       "size": 3922
     },
     {
@@ -97,7 +97,7 @@
         }
       ],
       "download": "editors/community.kid-icarus-uprising-1.0.0.zip",
-      "sha256": "3133047cb53ecc6253dcd208d877fb07fa43135292ad7fb266e3e4b1ba42a4a9",
+      "sha256": "5703f68514ea48fe8d756068bc640e171ab84f898bcf91688a5264efa94812c0",
       "size": 5704
     },
     {
@@ -129,7 +129,7 @@
         }
       ],
       "download": "editors/community.mario-kart-7-1.0.0.zip",
-      "sha256": "bf957d43b12c912fe0f8069e18e03460c440da77a78619028ff3fcdfb450da71",
+      "sha256": "75b9a9981436782c4303da3f1154cd86b9f9725e8eaf77a73b81aa6e1f11ac18",
       "size": 1616
     },
     {
@@ -150,8 +150,8 @@
         }
       ],
       "download": "editors/community.rpg-maker-1.0.0.zip",
-      "sha256": "465530bd682dccb84f872118ceacc4512b9d69f078328094de8650e9461fab93",
-      "size": 6812
+      "sha256": "9db4625a22914f8f6cbe86b24aacf4c7c3fe72ee483102024af4bdb7f86d11d9",
+      "size": 6782
     },
     {
       "id": "community.super-kirby-clash",
@@ -172,7 +172,7 @@
         }
       ],
       "download": "editors/community.super-kirby-clash-1.0.0.zip",
-      "sha256": "80157c1966bc3ff2843a8100e0dbed03592062e160283ea509e6469370b319fe",
+      "sha256": "d1ba4b11317212c035d1f24dc09456f0a5a5cfe2bd2b40c3b7ae12d56549c58c",
       "size": 1244
     }
   ]
