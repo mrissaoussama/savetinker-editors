@@ -1,0 +1,20 @@
+{
+  "id": "community.rpg-maker",
+  "name": "RPG Maker MV/MZ Save Editor",
+  "description": "Gold, items, party members, switches and variables in RPG Maker MV (.rpgsave) and MZ (.rmmzsave) games. Names come from the game's data folder when it is next to the save.",
+  "version": "1.0.0",
+  "api_version": 1,
+  "authors": [
+    "SaveTinker"
+  ],
+  "source": "https://github.com/mrissaoussama/savetinker-editors/tree/main/editors/rpg-maker",
+  "game_data": true,
+  "games": [
+    {
+      "platform": "*",
+      "title_id": "*",
+      "name": "RPG Maker MV and MZ games"
+    }
+  ],
+  "icon": "icon.png"
+}

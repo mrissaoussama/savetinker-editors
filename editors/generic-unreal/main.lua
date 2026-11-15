@@ -21,27 +21,33 @@ end
 
 local fill
 
+-- Blueprint struct fields end in "_<n>_<guid>".
+local function pretty(name)
+    return (name:gsub("_%d+_" .. ("%x"):rep(32) .. "$", ""))
+end
+
 local function widget(page, file, node, id)
     local binding = gvas.bind(file, node)
+    local label = pretty(node.name)
     if node.children then
         local count = #node.children
-        page:page({ title = node.name .. "  (" .. (node.struct or node.type or "") .. ", " .. count .. ")", key = id },
+        page:page({ title = label .. "  (" .. (node.struct or node.type or "") .. ", " .. count .. ")", key = id },
             function(sub) fill(sub, file, node.children, id) end)
     elseif node.kind == "entry" then
-        page:section({ title = node.name, key = id, collapsed = true }, function(section)
+        page:section({ title = label, key = id, collapsed = true }, function(section)
             widget(section, file, node.key, id .. "/k")
             widget(section, file, node.value, id .. "/v")
         end)
     elseif node.kind == "bool" then
-        page:toggle{ label = node.name, key = id, bind = binding }
+        page:toggle{ label = label, key = id, bind = binding }
     elseif node.kind == "f32" or node.kind == "f64" then
-        page:float{ label = node.name, key = id, bind = binding }
+        page:float{ label = label, key = id, bind = binding }
     elseif node.kind == "string" then
-        page:text{ label = node.name, key = id, bind = binding, max_length = math.max(256, #node.value * 2) }
+        page:text{ label = label, key = id, bind = binding, max_length = math.max(256, #node.value * 2) }
     elseif binding then
-        page:int{ label = node.name, key = id, bind = binding }
+        page:int{ label = label, key = id, bind = binding }
     else
-        page:label{ label = node.name, key = id, value = (node.type or "data") .. ", " .. (node.length or 0) .. " bytes" }
+        page:label{ label = label, key = id, value = (node.kind == "bytes" and "" or (node.type or "data") .. ", ") .. (node.length or 0) .. " bytes" }
     end
 end
 
